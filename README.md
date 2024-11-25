@@ -70,7 +70,7 @@ Now, your self-hosted runner is connected to your repository and ready to run wo
 
 In short, we discussed the benefits of using self-hosted runners for Python applications and how to set them up using an EC2 instance. By using Configuring the self-hosted runner is relatively easy and can be done by following the below steps:
 
-![image](https://github.com/sumanprasad007/gitHub-actions-setup-for-python-app/assets/55047333/51ba56b9-96b8-4f95-8839-90458555b9e1)
+![Screenshot 2024-11-25 022923](https://github.com/user-attachments/assets/98716f85-3643-4681-ac34-7c891e076e0a)
 
 ## **🔹** Detailed Configurations for Self-hosted Instance:
 
@@ -127,7 +127,8 @@ jobs:
 
 This will ensure that your workflow runs on the self-hosted runner instead of the GitHub-hosted runner i.e. self-hosted-runner.yml.
 
-![Screenshot 2024-11-25 022923](https://github.com/user-attachments/assets/98716f85-3643-4681-ac34-7c891e076e0a)
+
+![Screenshot 2024-11-25 023140](https://github.com/user-attachments/assets/e45b9d6b-0f26-440b-8876-e0447cb08dda)
 
 
 # **📍** Interview Question related to GitHub Actions:
